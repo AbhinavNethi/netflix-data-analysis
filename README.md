@@ -43,7 +43,7 @@ This project is a detailed exploratory data analysis (EDA) of Netflix’s Movies
 
 ---
 
-## 💡 5. Summary & Insights
+## 💡 5. Summary
 - Majority of content is **Movies** (~70%)
 - Peak in new content additions around **2019-2020**
 - U.S dominates Netflix content, but **India** is strong too
