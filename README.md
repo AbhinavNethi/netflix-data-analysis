@@ -46,7 +46,7 @@ This project is a detailed exploratory data analysis (EDA) of Netflix’s Movies
 ## 💡 5. Summary & Insights
 - Majority of content is **Movies** (~70%)
 - Peak in new content additions around **2019-2020**
-- US dominates Netflix content, but **India** is strong too
+- U.S dominates Netflix content, but **India** is strong too
 - **Documentaries**, **Dramas**, and **Comedies** are most common genres
 - Some directors like **Raúl Campos** & **Marcus Raboy** appear frequently
 - Movie duration center around **90 minutes**, while most TV shows are **1-2 seasons**
@@ -60,9 +60,4 @@ This project is a detailed exploratory data analysis (EDA) of Netflix’s Movies
 
 ---
 
-## 📌 Future Work (Optional)
-- Add recommendation engine (content-based or collaborative)
-- Use NLP to analyze descriptions or titles
-
----
-
+--------------------------------------------------------------THE END------------------------------------------------------------------------
